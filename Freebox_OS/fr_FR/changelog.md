@@ -88,7 +88,7 @@ pluginId: Freebox_OS
     - Correction non-apparition commande rechercher dans l'équipement "home Adapter" après une première recherche \* Renommage des commandes (ajout État dans le cas où la commande et l'info porte le même nom)
       > Pour avoir l'ensemble des nouveautés sur les équipements, il est nécessaire de les supprimer et de cliquer ensuite sur "rechercher les Tiles"
 
-- Ajout commande "refresh" => commande masquer par défaut dans les listes des commandes
+- Ajout commande "refresh" => commande masqué par défaut dans les listes des commandes
 - Clean code
 
 ## 27/05/2020
@@ -97,7 +97,7 @@ pluginId: Freebox_OS
 - Amélioration affichage des commandes
 - Migration commande API Wifi de V3 à V5
 - Séparation des équipements Home et Tiles dans la liste des équipements
-- Nettoyage des cron a la suppression du plugin
+- Nettoyage des cron à la suppression du plugin
 
 ## 03/04/2020
 
